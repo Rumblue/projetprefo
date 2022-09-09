@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Bungee+Inline&family=Julius+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+
+
+
+body {
+    background: url(../assets/hublottest.jpg);
+    background-size: cover;
+
+}
+
+p {
+    font-family: 'Aboreto' , cursive;
+    color: azure;
+    font-family: 'Playfair Display SC', cursive;
+    text-align: center;
+    font-size: 2.5rem;
+    
+}
+
+img {
+    color: rgb(8, 8, 8);
+    width: 550px;
+    height: auto ;
+    background-repeat: none;
+    margin-top: 37%;
+    background-color: rgb(240, 248, 255);
+    padding: 1%;
+    border-radius: 10px;
+    margin-left:  -1%;
+    opacity: 0.75;
+    
+
+}

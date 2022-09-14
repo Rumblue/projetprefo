@@ -1,16 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Bungee+Inline&family=Julius+Sans+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jura&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Yeseva+One&display=swap');
 
 
 body {
     background: url(../assets/hublottest.jpg);
     background-size: cover;
+    text-align: center;
 
 }
 
-p {
+ p{
     font-family: 'Aboreto' , cursive;
     color: azure;
     font-family: 'Playfair Display SC', cursive;
@@ -19,9 +20,9 @@ p {
     
 }
 
-img {
+/* img {
     color: rgb(8, 8, 8);
-    width: 550px;
+    width: 450px;
     height: auto ;
     background-repeat: none;
     margin-top: 37%;
@@ -31,5 +32,50 @@ img {
     margin-left:  -1%;
     opacity: 0.75;
     
+} */
 
+#link {
+    margin-left: 30px;
+
+    width: 380px;
+
+    display: flex;
+    align-items: flex-start;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+    list-style: none;
+    font-family:'Press Start 2P', cursive;
+    margin-top: -2%;
+}
+
+#nav {
+    width: 500px;
+
+    height: 40px;
+
+    background-image: url(../assets/avionprojet-removebg-preview.png);
+    color: rgb(8, 8, 8);
+    background-size: 100%;
+    margin-top: 38.5%;
+
+    background-color: rgb(240, 248, 255);
+
+    padding: 2%;
+
+    border-radius: 10px;
+
+    margin-left:  33.5%;
+
+    opacity: 0.75;
+
+   
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
 }

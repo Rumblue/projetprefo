@@ -1,0 +1,40 @@
+
+
+body {
+    background: url(../../assets/Livre.jpg)
+}
+
+h1 {
+    text-align: center;
+    padding: 15px;
+    width: 300px;
+    margin-left: 42%;
+    border-radius: 10px;
+    color: #ffffff;
+    font-family: Orkney
+}
+
+#main {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 800px;
+    width: 1000px;
+    /* background-color: yellow; */
+    margin-left: 29%;
+    margin-bottom: 10%;
+    
+}
+
+.card {
+    width: 400px;
+    min-height: 400px; 
+    background-color:#d1c7c52c;
+    padding: 10%;
+    color: #ffffff;
+    font-size: 18px;
+    
+
+}
+    

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Bungee+Inline&family=Julius+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+
+
+body {
+    background: url(../../assets/interview.jpg);
+}
+
+h1 {
+    font-family: 'Press Start 2P', Courier, monospace;
+    text-align: center;
+    color: yellowgreen;
+    text-shadow: 5px 5px black ;
+}
+
+p {
+    text-align: center;
+    background-color: #3fc4ae;
+    width: 800px;
+    min-height:200px;
+    margin-left: 27%;
+    margin-top: 10%;
+    color: #080e1a;
+    border-radius: 10px;
+}

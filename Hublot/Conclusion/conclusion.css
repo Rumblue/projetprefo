@@ -1,0 +1,15 @@
+
+body {
+    background: url(../../assets/MicrosoftTeams-image.png);
+}
+
+p {
+  background-color:#dbc5a781;
+  color: white;
+  padding: 5%;
+  margin-right: 60%;
+  margin-top: 5%;
+  margin-left: 20px;
+  border-radius: 10px;
+
+}

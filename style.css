@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
 
 body {
-    background: url(../assets/Bruxelles.jpg);
+    background: url(assets/Bruxelles.jpg);
     background-size: cover  ;
     height: 900px;
 }

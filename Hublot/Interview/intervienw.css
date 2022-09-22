@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Yeseva+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Bungee+Inline&family=Julius+Sans+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap')
+;
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
 
 body {
-    background: url(../../assets/interview.jpg);
+ background:  url(../../assets/codetest.jpg);
 }
 
 h1 {
@@ -12,17 +14,6 @@ h1 {
     text-align: center;
     color: yellowgreen;
     text-shadow: 5px 5px black ;
-}
-
-p {
-    text-align: center;
-    background-color: #3fc4ae;
-    width: 800px;
-    min-height:200px;
-    margin-left: 27%;
-    margin-top: 10%;
-    color: #080e1a;
-    border-radius: 10px;
 }
 
 .material-symbols-outlined {
@@ -39,4 +30,28 @@ position: absolute ;
 z-index: 1;
 height: 50px;
 width: 100px;
+}
+
+#main {
+ background-color: rgba(3, 2, 2, 0.596);
+ padding: 5%;
+ width: 45%;
+ margin-left: 22%;
+ border-radius: 10px;
+}
+
+.text {
+    margin-left: 5%;
+}
+
+h5 {
+    font-family: 'Press Start 2P', Courier, monospace;
+    color: yellowgreen;
+    
+}
+
+p {
+    font-family: 'Consolas';
+    font-size: 18px;
+    color: aliceblue;
 }

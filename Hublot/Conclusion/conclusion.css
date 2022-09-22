@@ -1,15 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Bungee+Inline&family=Julius+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap')
+;
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
 
 body {
     background: url(../../assets/MicrosoftTeams-image.png);
 }
 
 p {
-  background-color:#dbc5a781;
+  background-color:#dbc5a7e0;
   color: white;
   padding: 5%;
   margin-right: 60%;
   margin-top: 5%;
   margin-left: 20px;
   border-radius: 10px;
+  font-family: 'Lora', cursive;
+}
 
+h1 {
+  font-family: 'Playfair Display SC', cursive;
+  margin-left: 20%;
+  color: white;
+  font-size: 40px;
+}
 }

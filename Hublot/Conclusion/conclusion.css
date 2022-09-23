@@ -11,7 +11,7 @@ body {
 }
 
 p {
-  background-color:#dbc5a7e0;
+  background-color:#3b1a0e7c;
   color: white;
   padding: 5%;
   margin-right: 60%;
@@ -24,7 +24,7 @@ p {
 h1 {
   font-family: 'Playfair Display SC', cursive;
   margin-left: 20%;
-  color: white;
+  color: #140908;
   font-size: 40px;
 }
 }

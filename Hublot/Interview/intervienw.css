@@ -12,7 +12,7 @@ body {
 h1 {
     font-family: 'Press Start 2P', Courier, monospace;
     text-align: center;
-    color: yellowgreen;
+    color: #a13b76;
     text-shadow: 5px 5px black ;
 }
 
@@ -33,7 +33,7 @@ width: 100px;
 }
 
 #main {
- background-color: rgba(3, 2, 2, 0.596);
+ background-color: rgba(3, 2, 2, 0.842);
  padding: 5%;
  width: 45%;
  margin-left: 22%;
@@ -46,12 +46,23 @@ width: 100px;
 
 h5 {
     font-family: 'Press Start 2P', Courier, monospace;
-    color: yellowgreen;
+    color: #a13b76;
     
 }
 
 p {
     font-family: 'Consolas';
     font-size: 18px;
-    color: aliceblue;
+    color: #e5e9f1;
+}
+
+.lien {
+    text-decoration: none;
+    color: #a13b76;
+    cursor: zoom-in;
+
+}
+
+.lien a:hover {
+    transform: scale(3);
 }
